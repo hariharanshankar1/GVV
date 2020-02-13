@@ -1,0 +1,15 @@
+Assignment 1 - Automatic Lens Smear Detection (Due before class on Feb 22)
+Input: a sequence of street view images (Links to an external site.)Links to an external site.(10 GB File)
+       http://cs.iit.edu/~xchen/sample_drive.rar 
+Output: a mask of the smear on the lens
+Submit (contact TA if you have submission questions):
+-1. PPT slides of your approach and both intermediate and final results
+
+-2. Source code and executable/scripts with appropriate documentation
+
+Note: please do NOT make any assumptions such as the smear is constant in all image frames, every lens has some smear, or the smear is at certain location. That means you need to go through all image frames.
+
+Resources (for reference purpose, not required to read or implement any of this paper)
+-"Removing Image Artifacts Due to Dirty Camera Lenses and Thin Occluders," 
+J. Gu, R. Ramamoorthi, P.N. Belhumeur and S.K. Nayar, 
+ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia)
